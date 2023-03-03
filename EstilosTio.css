@@ -1,0 +1,144 @@
+#CV{
+    color: darkmagenta;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 3em;
+    margin-block-end: 148.1px;
+    margin-inline-start: 242px;
+    margin-inline-end: 0px;
+    font-weight: lighter;
+    
+}
+#imagen{
+    display: block;
+    font-size: -13.5em;
+    margin-block-start: -40.17px;
+    margin-block-end: -134.1px;
+    margin-inline-start: 304px;
+    margin-top: 53px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding-block-start: 0px;
+    padding-block: 0px;
+    border-block-end: 0px;
+}
+
+form{
+color:darkmagenta;
+font-style:oblique;
+}
+#oracion{
+    display: block;
+    margin-block-start: -6em;
+    margin-block-end: -3em;
+    margin-inline-start: 230px;
+    margin-inline-end: 0px;
+    margin-top: 11px;
+}
+#DP{
+    display: block;
+    margin-block-start: -30.9px;
+    margin-block-end: 31.83px;
+    margin-inline-start: 270px;
+    margin-inline-end: 0px;
+    margin-top: -6px;
+    font-weight: bold;
+}
+
+
+#Estudios
+{
+display: block;
+font-size: 1.5em;
+margin-block-start: 0.83em;
+margin-block-end: 0.9em;
+margin-inline-start: 110px;
+margin-inline-end: 0px;
+font-weight: bold;
+}
+
+#Idioma{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: -47px;
+    margin-block-end: 47.83px;
+    margin-inline-start: 505px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#El{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: -71px;
+    margin-block-end: 3.83em;
+    margin-inline-start: 142px;
+    margin-inline-end: 0px;
+    margin-top: 81px;
+    font-weight: bold;
+}
+
+
+#Contactos{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: -66px;
+    margin-block-end: -8.17em;
+    margin-inline-start: 449px;
+    margin-inline-end: 0px;
+    margin-top: -117px;
+    font-weight: bold;
+}
+
+#boton_color{
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+    margin-top: 240px;
+    margin-inline-start: -5px;
+}
+#color_principal{
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+    margin-top: 0px;
+    margin-inline-start: -11px;
+}
